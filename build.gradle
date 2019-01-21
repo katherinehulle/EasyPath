@@ -14,7 +14,7 @@ dependencies {
     testImplementation 'junit:junit:4.12'
 
     // Include WPILib JAR
-    implementation 'edu.wpi.first.wpilibj:wpilibj-java:2018.4.1'
+    implementation 'edu.wpi.first.wpilibj:wpilibj-java:2019.2.1'
 }
 
 // In this section you declare where to find the dependencies of your project
@@ -36,4 +36,4 @@ test {
     }
 }
 
-version = '0.6-alpha'
+version = '0.7-alpha'
